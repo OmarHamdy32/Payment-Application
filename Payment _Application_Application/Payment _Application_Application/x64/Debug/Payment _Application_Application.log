@@ -1,0 +1,20 @@
+﻿  Application.c
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(24,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(30,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(36,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(48,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(64,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(70,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(76,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(82,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(88,11): warning C4098: 'appStart': 'void' function returning a value
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Application\Application.c(94,11): warning C4098: 'appStart': 'void' function returning a value
+  Card.c
+  Server.c
+  main.c
+  Terminal.c
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Terminal\Terminal.c(136,18): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Terminal\Terminal.c(206,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\Payment _Application_Application\Server\Server.c(76): warning C4715: 'isBlockedAccount': not all control paths return a value
+  Payment _Application_Application.vcxproj -> D:\PAYMENT_APPLICATION_APPLICATION\Payment _Application_Application\x64\Debug\Payment _Application_Application.exe
